@@ -1,5 +1,6 @@
 # devops-lab4
 
+Learned the basics of SVN where we created a local svn server and created an admin and users, using which we used some basic SVN commands.
 
 It worked till creating trunk and started giving error when I tried to create a feature-branch.
 
